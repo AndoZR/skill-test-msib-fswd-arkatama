@@ -19,7 +19,7 @@
                 </div>
                 <div class="card-footer">
                     <button type="submit" class="btn btn-primary">Simpan</button>
-                    <a href="" class="btn btn-danger">Batal</a>
+                    <a href="{{ route('viewData') }}" class="btn btn-danger">Batal</a>
                 </div>
             </div>
         </div>
